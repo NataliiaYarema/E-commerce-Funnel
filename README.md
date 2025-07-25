@@ -82,8 +82,8 @@ User can interactively filter the dashboard by:
 ## 🧰 Tools Used
 
 - **Tableau Desktop**
-- **Data source:** Publick BigQuery dataset [GA4](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=ga4_obfuscated_sample_ecommerce&t=events_20210131&page=table)
-- **SQL** to get data
+- **Data Source:** Public Google BigQuery dataset — [GA4 Sample Ecommerce](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=ga4_obfuscated_sample_ecommerce&t=events_20210131&page=table)
+- **SQL Query:** Used to retrieve the raw dataset — [`sql/get_ecommerce_data.sql`](./sql/get_ecommerce_data.sql)
 
 ---
 
