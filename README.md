@@ -2,7 +2,6 @@
 
 ## 🎯 Project Objective
 
-**Main Goal:**  
 Conversion analysis in the online store, with actionable insights for the **Marketing Department**.
 
 This Tableau dashboard visualizes user behavior throughout the **e-commerce conversion funnel**, identifying critical drop-off points and uncovering factors that influence purchase decisions across devices, geographies, channels, and time.
@@ -92,8 +91,8 @@ User can interactively filter the dashboard by:
 
 1.  Download the file.
 2. Open it using:
-   - [Tableau Desktop](https://www.tableau.com/products/desktop) 
-   - or [Tableau Public](https://public.tableau.com/app/discover) 
+   - [Tableau Desktop](https://www.tableau.com/products/desktop) or
+   - [Tableau Public](https://public.tableau.com/app/discover) 
 3. Interact with filters and explore dashboards.
 
 ---
