@@ -1,4 +1,4 @@
-# 📊 Ecommerce Funnel – Tableau Dashboard
+# 📊 E-commerce Funnel – Tableau Dashboard
 
 ## 🎯 Project Objective
 
@@ -9,6 +9,8 @@ This Tableau dashboard visualizes user behavior throughout the **e-commerce conv
 ---
 
 ## 📋 Dashboard Overview
+
+![E-commerce](e-commerce.png)
 
 ### ✅ **Key Dashboard Elements**
 - **Core Metrics:** Visits, Product Views, Purchases
